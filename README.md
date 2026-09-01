@@ -28,5 +28,8 @@
  Hello human, Iv have curated a mod template for 7 days to die,
  Yup...
 
+ Operation Genesis goal is to make creating mods for 7 days to die easier,
+ as well as create better documentation and a collect a community list of scripts for humans.
+
 this is alpha 0.0.0.1
 ```
