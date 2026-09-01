@@ -46,7 +46,8 @@ add these .dlls:
         <img
           src="https://i.imgur.com/h3gyPG7.png"
           alt="Operation Genesis"
-          width="600"
+          width="350"
+          height="200"
         >
       </td>
     </tr>
