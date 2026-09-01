@@ -12,7 +12,7 @@ using static HarmonyLib.Harmony;
 
 namespace Operation_Gensis_v1
 {
-    public class Class1 : MonoBehaviour
+    public class Genesis_v1 : MonoBehaviour
     {
         // ============================================================
         // WINDOW
@@ -142,8 +142,8 @@ namespace Operation_Gensis_v1
 
 
             // Add GUI component
-            Class1 gui =
-                obj.AddComponent<Class1>();
+            Genesis_v1 gui =
+                obj.AddComponent<Genesis_v1>();
 
 
             // Load menu background
