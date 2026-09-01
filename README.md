@@ -27,4 +27,6 @@
 
  Hello human, Iv have curated a mod template for 7 days to die,
  Yup...
+
+this is alpha 0.0.0.1
 ```
