@@ -44,7 +44,7 @@ add these .dlls:
     <tr>
       <td>
         <img
-          src="https://iili.io/3a7fXNS.png"
+          src="https://i.imgur.com/h3gyPG7.png"
           alt="Operation Genesis"
           width="600"
         >
