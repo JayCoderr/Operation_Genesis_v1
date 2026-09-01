@@ -1,0 +1,5 @@
+C:\Users\jayco\source\repos\Operation_Gensis_v1\Operation_Gensis_v1\obj\Debug\netstandard2.0\Operation_Gensis_v1.csproj.AssemblyReference.cache
+C:\Users\jayco\source\repos\Operation_Gensis_v1\Operation_Gensis_v1\obj\Debug\netstandard2.0\Operation_Gensis_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayco\source\repos\Operation_Gensis_v1\Operation_Gensis_v1\obj\Debug\netstandard2.0\Operation_Gensis_v1.AssemblyInfoInputs.cache
+C:\Users\jayco\source\repos\Operation_Gensis_v1\Operation_Gensis_v1\obj\Debug\netstandard2.0\Operation_Gensis_v1.AssemblyInfo.cs
+C:\Users\jayco\source\repos\Operation_Gensis_v1\Operation_Gensis_v1\obj\Debug\netstandard2.0\Operation_Gensis_v1.csproj.CoreCompileInputs.cache

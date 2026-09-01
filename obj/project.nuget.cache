@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4pCKkabfASI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayco\\source\\repos\\Operation_Gensis_v1\\Operation_Gensis_v1\\Operation_Gensis_v1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\jayco\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\jayco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
