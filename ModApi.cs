@@ -10,7 +10,7 @@ namespace Operation_Gensis_v1
                 "[Operation Genesis] ModApi.InitMod()"
             );
 
-            Class1.Initialize();
+            Genesis_v1.Initialize();
         }
     }
 }
