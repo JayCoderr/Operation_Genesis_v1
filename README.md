@@ -38,5 +38,5 @@ if your opening this on a non-quantum computer you may need to follow these step
 Find your 7dtd directory go to 7DaysToDie_Data then Managed
 add these .dlls:
 
-![Operation Genesis](https://i.imgur.com/IMAGE_ID.png)
+![Operation Genesis]([https://i.imgur.com/IMAGE_ID.png](https://imgur.com/a/YGy82Vd))
 ```
