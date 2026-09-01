@@ -37,6 +37,19 @@ if your opening this on a non-quantum computer you may need to follow these step
 
 Find your 7dtd directory go to 7DaysToDie_Data then Managed
 add these .dlls:
-
-[![Operation Genesis](https://iili.io/3a7fXNS.png)](https://imgur.com/a/YGy82Vd)
 ```
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://iili.io/3a7fXNS.png"
+          alt="Operation Genesis"
+          width="600"
+        >
+      </td>
+    </tr>
+  </table>
+
+</div>
