@@ -47,7 +47,7 @@ add these .dlls:
           src="https://i.imgur.com/h3gyPG7.png"
           alt="Operation Genesis"
           width="350"
-          height="200"
+          height="350"
         >
       </td>
     </tr>
