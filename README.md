@@ -32,4 +32,11 @@
  as well as create better documentation and a collect a community list of scripts for humans.
 
 this is alpha 0.0.0.1
+
+if your opening this on a non-quantum computer you may need to follow these steps if your missing dependencies:
+
+Find your 7dtd directory go to 7DaysToDie_Data then Managed
+add these .dlls:
+
+[img]https://imgur.com/a/YGy82Vd[/img]
 ```
